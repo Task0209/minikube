@@ -1,4 +1,0 @@
-vagrant plugin install vagrant-disksize
-sudo apt install curl
-sudo apt install gpg*
-sudo apt install software-properties-common
